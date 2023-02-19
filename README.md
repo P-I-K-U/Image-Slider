@@ -1,16 +1,10 @@
-# slider
 
-A new Flutter project.
+# Image-Slider
 
-## Getting Started
+It's an Image_Slider using carousel_slider with text by Flutter.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<image align="start" alt="banner" width="400"  src = "https://github.com/P-I-K-U/Image-Slider/blob/master/image_slider.gif">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
